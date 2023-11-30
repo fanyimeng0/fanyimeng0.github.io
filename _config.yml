@@ -9,25 +9,26 @@ version: 2
 name: Fanyi Meng  
 title: M.Phil Candidate
 email: fanyimeng@link.cuhk.edu.cn
-website: www.github.com/sproogen/resume-theme
+website: https://fanyimeng0.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  fanyimeng0
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#000youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
+wechat_username: M18935106029
 
 # Additional icon links
 additional_links:
