@@ -40,8 +40,8 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-- title: itsgoingto.be
-  <i class="fa-brands fa-bilibili"></i>
+- title: bilibili
+  <i class="fa-brands fa-twitter"></i>
   url: https://space.bilibili.com/73868611?spm_id_from=333.1007.0.0
 
 # Google Analytics and Tag Manager
