@@ -33,7 +33,7 @@ orcid_username: 0000-0003-3981-0003
 #wechat_username: M18935106029
 
 # Additional icon links
-#additional_links:
+additional_links:
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
