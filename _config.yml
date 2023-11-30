@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Fanyi Meng  
 title: M.Phil Candidate
-phone: (+86)15935106029
+phone: (+86)18935106029
 email: fanyimeng@link.cuhk.edu.cn
 
 
@@ -41,7 +41,7 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 - title: itsgoingto.be
-  icon: fab fa-bilibili
+  icon: fab fa-twitter
   url: https://space.bilibili.com/73868611?spm_id_from=333.1007.0.0
 
 # Google Analytics and Tag Manager
