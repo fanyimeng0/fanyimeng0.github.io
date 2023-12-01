@@ -4,13 +4,13 @@ favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
-title = 孟繁一-Fanyi Meng
+title: 孟繁一-Fanyi Meng
 # Personal info
 name: Fanyi Meng  
 job_title: M.Phil Candidate
 phone: (+86)18935106029
 email: fanyimeng@link.cuhk.edu.cn
-company: The Chinese University of Hong Kong,sShenzhen
+company: The Chinese University of Hong Kong,Shenzhen
 
 
 # Dark Mode (true/false/never)
