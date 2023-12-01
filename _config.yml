@@ -53,9 +53,12 @@ additional_links:
 about_profile_image: images/pre2.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Fanyi Meng and I'm persuing my M.Phil of Computer and Information Engineering in The Chinese University of Hong Kong, Shenzhen(CUHKSZ).
+
   My supervisors are [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) and [Prof Tsung-Hui Chang](https://sse.cuhk.edu.cn/faculty/tsunghuichang).
+
   I received B.Eng from Southern University of Technology(Sustech) in Communication Engineering.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
+  My resarch interests include enviroment-aware communication, integrated sensing and communication(ISAC), collaborative sensing and SLAM. And I'm looking for PhD programmes in 2025.  If you're involved in one, please let me know of any openings via email!
 
 content:
   - title: Projects # Title for the section
