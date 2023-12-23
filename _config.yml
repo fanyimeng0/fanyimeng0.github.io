@@ -59,7 +59,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   My resarch interests include enviroment-aware communication, integrated sensing and communication(ISAC), collaborative perception and SLAM. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
-  [My CV(Ongoing)](https://github.com/fanyimeng0/fanyimeng0.github.io/blob/main/assets/CV_Fanyi%20MENG.pdf)
+  [My CV(Ongoing)](https://fanyimeng0/fanyimeng0.github.io/assets/CV_Fanyi MENG.pdf)
+
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
