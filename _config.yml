@@ -57,12 +57,27 @@ about_content: | # this will include new lines to allow paragraphs
 
   I received B.Eng from Southern University of Technology(Sustech) in Communication Engineering in 2023.
   
-  My resarch interests include enviroment-aware communication, integrated sensing and communication(ISAC), collaborative sensing and SLAM. And I'm looking for PhD programmes in 2025.  If you're involved in one, please let me know of any openings via email!
+  My resarch interests include enviroment-aware communication, integrated sensing and communication(ISAC), collaborative perception and SLAM. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
