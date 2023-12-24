@@ -100,9 +100,9 @@ content:
 
          We built a platform to simultaneously collect CSI data on three devices for network training.
 
-         We used 3 5300 CSI to trackand localize people in real-time Patent application acceptance(202311295755.4).
+         We used 3 Intel 5300 to track and localize people in real-time. Patent application acceptance(202311295755.4).
 
-         (Ongoing) Improving algorithm accuracy by jointly using Angle of Arrival (AOA) and Direction Finding/Time of Flight (DFS/TOF).
+         (Ongoing) Improving algorithm accuracy by jointly using Angle of Arrival (AOA) and Doppler Frequency Shift/Time of Flight (DFS/TOF).
          
       - layout: left
         title: Sening-aided Communication
@@ -113,7 +113,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           (Ongoing) Utilizing Sionna for simulating coverage maps.
 
-          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction".
+          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction.
 
   
   - title: Awards # Title for the section
