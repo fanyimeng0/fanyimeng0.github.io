@@ -81,8 +81,11 @@ content:
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
          We Extracted Channel State Information (CSI) from Wi-Fi signals using Intel 5300 and RT-AC86U.
+
          We built a platform to simultaneously collect CSI data on three devices for network training.
+
          We used 3 5300 CSI to trackand localize people in real-time Patent application acceptance(202311295755.4).
+         
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
