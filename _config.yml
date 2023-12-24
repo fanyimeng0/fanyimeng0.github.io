@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           (Ongoing) Utilizing Sionna for simulating coverage maps.
 
-          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction".
+          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction.
 
   
   - title: Awards # Title for the section
