@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           (Ongoing) Utilizing Sionna for simulating coverage maps.
 
-          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction.
+          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction".
 
   
   - title: Awards # Title for the section
@@ -128,9 +128,13 @@ content:
 
           description: | # this will include new lines to allow paragraphs
             IEEE International Conference on Computer and Communications(ICCC)
+
             IEEE Global Communications Conference Workshop(Globecom)
+
             IEEE Vehicular Technology Conference(VTC)
+
             IEEE Communications Magazine
+            
             IEEE International Conference on Wireless Communications and Signal Processing
 #footer_show_references: true 
  
