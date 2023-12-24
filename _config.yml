@@ -118,13 +118,13 @@ content:
   
   - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: | 
           3rd Prize, the First Wi-Fi Sensing Contest Dec. 2023
 
           Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2015
 
   - title: Academic Services
-    layout: list
+    layout: text
     content:
     - layout: left
       title: Reviewer
@@ -138,18 +138,7 @@ content:
         IEEE Communications Magazine
 
         IEEE International Conference on Wireless Communications and Signal Processing
-    - layout: left
-      title: Reviewer
-      description: | # this will include new lines to allow paragraphs
-        IEEE International Conference on Computer and Communications(ICCC)
-
-        IEEE Global Communications Conference Workshop(Globecom)
-
-        IEEE Vehicular Technology Conference(VTC)
-
-        IEEE Communications Magazine
-
-        IEEE International Conference on Wireless Communications and Signal Processing
+   
 
 
 
