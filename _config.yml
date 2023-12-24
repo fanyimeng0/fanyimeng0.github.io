@@ -124,7 +124,7 @@ content:
           Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2015
 
   - title: Academic Services
-    layout: text
+    layout: list
     content:
     - layout: left
       title: Reviewer
