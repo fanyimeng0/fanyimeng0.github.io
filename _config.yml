@@ -66,18 +66,7 @@ content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Wi-Fi Qos
-        
-        quote: >
-          Improving overall QoS performance by changing EDCA parameters.
-        description: | # this will include new lines to allow paragraphs
-          We Utilized MATLAB's WLAN Toolbox for simulation of the Distributed Coordination Function (DCF) within the Wi-Fi MAC layer.
-
-          We Utilized NS-3 to analyze the Enhanced Distributed Channel Access (EDCA) mechanism in 802.11ac, focusing on throughput and latency.
-
-          We Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks.
-
+ 
 
 
       - layout: left
@@ -120,22 +109,6 @@ content:
 
           Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2015
 
-  - title: Academic Services
-    layout: list
-    content:
-      - layout: left
-        title: Reviewer 
-
-          description: | # this will include new lines to allow paragraphs
-            IEEE International Conference on Computer and Communications(ICCC)
-
-            IEEE Global Communications Conference Workshop(Globecom)
-
-            IEEE Vehicular Technology Conference(VTC)
-
-            IEEE Communications Magazine
-            
-            IEEE International Conference on Wireless Communications and Signal Processing
 #footer_show_references: true 
  
 # Build settings
