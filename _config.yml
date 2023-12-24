@@ -67,6 +67,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Wi-Fi Qos
+        
+        quote: >
+          Improving overall QoS performance by changing EDCA parameters.
+        description: | # this will include new lines to allow paragraphs
+          We Utilized MATLAB's WLAN Toolbox for simulation of the Distributed Coordination Function (DCF) within the Wi-Fi MAC layer.
+
+          We Utilized NS-3 to analyze the Enhanced Distributed Channel Access (EDCA) mechanism in 802.11ac, focusing on throughput and latency.
+
+          We Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks.
+
+
+
+      - layout: left
         title: Wi-Fi Sensing
         #link: github.com/sproogen
         # link_text: Project Website
@@ -89,49 +103,35 @@ content:
          (Ongoing) Improving algorithm accuracy by jointly using Angle of Arrival (AOA) and Direction Finding/Time of Flight (DFS/TOF).
          
       - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: Sening-aided Communication
+        
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Using sensor data (visual/radar) to enhance communication performance
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          (Ongoing) Utilizing Sionna for simulating coverage maps.
+
+          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction".
 
   
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Awards # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+          3rd Prize, the First Wi-Fi Sensing Contest Dec. 2023
+
+          Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2015
+
+  - title: Academic Services
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Reviewer 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
+          description: | # this will include new lines to allow paragraphs
+            IEEE International Conference on Computer and Communications(ICCC)
+            IEEE Global Communications Conference Workshop(Globecom)
+            IEEE Vehicular Technology Conference(VTC)
+            IEEE Communications Magazine
+            IEEE International Conference on Wireless Communications and Signal Processing
 #footer_show_references: true 
  
 # Build settings
