@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I received B.Eng from Southern University of Technology(Sustech) in Communication Engineering in 2023.
   
-  My resarch interests include enviroment-aware communication, integrated sensing and communication(ISAC), collaborative perception and SLAM. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
+  My resarch interests include sensing-asisted communication, integrated sensing and communication(ISAC), collaborative perception and SLAM. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
   [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)  [Research Proposal(Ongoing)]
 
@@ -113,7 +113,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           (Ongoing) Utilizing Sionna for simulating coverage maps.
 
-          (Ongoing) Utilizing cameras with different perspectives to reduce the overhead of beam prediction.
+          (Ongoing) Utilizing cameras/lidar with different perspectives to reduce the overhead of beam prediction.
 
   
   - title: Awards # Title for the section
