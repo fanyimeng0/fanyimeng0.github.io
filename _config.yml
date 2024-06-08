@@ -96,11 +96,11 @@ content:
         quote: >
           Utilizing Wi-Fi signals for human health monitoring.
         description: | # this will include new lines to allow paragraphs
-         We Extracted Channel State Information (CSI) from Wi-Fi signals using Intel 5300 and RT-AC86U.
+         Extracted Channel State Information (CSI) from Wi-Fi signals using Intel 5300 and RT-AC86U.
 
-         We built a platform to simultaneously collect CSI data on three devices for network training.
+         Built a platform to simultaneously collect CSI data on three devices for network training.
 
-         We used 3 Intel 5300 to track and localize people in real-time. Patent application acceptance(202311295755.4).
+         Used 3 Intel 5300 to track and localize people in real-time. Patent application acceptance(202311295755.4).
 
          (Ongoing) Improving algorithm accuracy by jointly using Angle of Arrival (AOA) and Doppler Frequency Shift/Time of Flight (DFS/TOF).
          
