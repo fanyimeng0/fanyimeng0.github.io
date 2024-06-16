@@ -13,7 +13,7 @@ email: fanyimeng@link.cuhk.edu.cn
 company: The Chinese University of Hong Kong,Shenzhen
 
 
-# Dark Mode (true/false/never)
+Dark Mode (false)
 darkmode: false
 
 # Social links
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I received B.Eng from Southern University of Technology(Sustech) in Communication Engineering in 2023.
   
-  My resarch interests include sensing-asisted communication, integrated sensing and communication(ISAC), collaborative perception and SLAM. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
+  My resarch interests include sensing-asisted communication, integrated sensing and communication(ISAC) and wireless simulation. And I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
   [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)  [Research Proposal(Ongoing)]
 
@@ -104,16 +104,36 @@ content:
 
          (Ongoing) Improving algorithm accuracy by jointly using Angle of Arrival (AOA) and Doppler Frequency Shift/Time of Flight (DFS/TOF).
          
-      - layout: left
-        title: Sening-aided Communication
-        caption: Oct 2023 - Present
+      # - layout: left
+      #   title: Sening-aided Communication
+      #   caption: Oct 2023 - Present
         
-        quote: >
-          Using sensor data (visual/radar) to enhance communication performance
-        description: | # this will include new lines to allow paragraphs
-          (Ongoing) Utilizing Sionna for simulating coverage maps.
+      #   quote: >
+      #     Using sensor data (visual/radar) to enhance communication performance
+      #   description: | # this will include new lines to allow paragraphs
+      #     (Ongoing) Utilizing Sionna for simulating coverage maps.
 
-          (Ongoing) Utilizing cameras/lidar with different perspectives to reduce the overhead of beam prediction.
+      #     (Ongoing) Utilizing cameras/lidar with different perspectives to reduce the overhead of beam prediction.
+       - layout: left
+        title: ISAC Performance Modeling
+        caption: Mar 2023 - Present
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Data-driven Approach for Integrated Sensing and Communication Performance Modeling
+        description: | # this will include new lines to allow paragraphs
+         Using Nvidia Sionna to simulate sensing datas in ISAC Networks.
+
+         Using Machine Learning to analyze the sensing performance (e.g. localization coverage).
+
+         Using the modal to optimize the sensing performance by changing BS parameters.
 
   
   - title: Awards # Title for the section
