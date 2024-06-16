@@ -87,6 +87,8 @@ content:
 
           Used 3 Intel 5300 to track and localize people in real-time. Patent application acceptance (202311295755.4).
 
+          ![Wi-Fi Sensing GIF](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/wifisensing.gif)
+
 
       - layout: left
         title: ISAC Performance Modeling
@@ -124,7 +126,7 @@ content:
           IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024
 
           IEEE Transactions on Wireless Communication (TWC), 2024
-          
+
           IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2024
 
 #footer_show_references: true 
