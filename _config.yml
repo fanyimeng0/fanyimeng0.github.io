@@ -13,7 +13,7 @@ email: fanyimeng@link.cuhk.edu.cn
 company: The Chinese University of Hong Kong,Shenzhen
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: facespics
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   My research interests include sensing-assisted communication, integrated sensing and communication (ISAC), and wireless simulation. I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
-  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)  [Research Proposal (Ongoing)]
+  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)  [Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
 
 content:
   - title: Research Experience # Title for the section
