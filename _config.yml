@@ -75,6 +75,10 @@ content:
 
           Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks. More detail in (https://github.com/fanyimeng0/ns3-wifi-edcatest)
 
+          Verify our results in Linux 5.15 by Hacking Wi-Fi Driver.
+
+          ![Wi-Fi Qos GIF](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/wifiqos.gif)
+
       - layout: left
         title: Wi-Fi Sensing
         caption: Mar 2023 - Present
