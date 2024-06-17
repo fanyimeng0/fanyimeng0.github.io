@@ -67,7 +67,7 @@ content:
         title: Wi-Fi QoS
         caption: Jun 2022 - Feb 2023
         link: github.com/your-username
-        link_text: My GitHub
+        link_text: github.com/fanyimeng0/ns3-wifi-edcatest
         additional_links:
           - title: ns3-wifi-edcatest
             icon: fab fa-github
