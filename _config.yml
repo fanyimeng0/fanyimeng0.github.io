@@ -79,7 +79,7 @@ content:
 
           Utilized NS-3 to analyze the Enhanced Distributed Channel Access (EDCA) mechanism in 802.11ac, focusing on throughput and latency.
 
-          Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks. 
+          Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks. Patent application acceptance (202310862296.7)(202310857615.5).
 
           Verified our results in Linux 5.15 by Hacking Wi-Fi Driver. More detail in (https://github.com/iamhyc/wlsops-hack)
 
@@ -118,9 +118,10 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      3rd Prize, the First Wi-Fi Sensing Contest Dec. 2023
+      [1] Zhao, Zijian, Tingwei Chen, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. ``[Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing](https://arxiv.org/abs/2403.12400).`` in IEEE INFOCOM DeepWireless Worshop 2024.(Accepted)
 
-      Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2023
+      [2] Yihang Jiang, **Fanyi Meng**, Xinhao Li, Xiaoyang Li, Guangxu Zhu, Kaifeng Han, Qingjiang Shi ``Coverage Analysis for Air-Ground Integrated-Sensing-and-Communication Networks`` in International Conference on Ubiquitous Communication 2024. (Accpted)
+      
 
   - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
