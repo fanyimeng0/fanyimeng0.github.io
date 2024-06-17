@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   My research interests include sensing-assisted communication, integrated sensing and communication (ISAC), and wireless simulation. I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
-  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)  [Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
+  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)        [My Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
 
 content:
   - title: Research Experience # Title for the section
@@ -111,6 +111,12 @@ content:
           Using Machine Learning to analyze the sensing performance (e.g., localization coverage).
 
           Using the model to optimize the sensing performance by changing BS parameters.
+  - title: Publication # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | 
+      3rd Prize, the First Wi-Fi Sensing Contest Dec. 2023
+
+      Advanced to the semifinals in International Algorithm Competition of Pazhou Lab Nov 2023
 
   - title: Awards # Title for the section
     layout: text # Type of content section (list/text)
