@@ -66,6 +66,12 @@ content:
       - layout: left
         title: Wi-Fi QoS
         caption: Jun 2022 - Feb 2023
+        link: github.com/your-username
+        link_text: My GitHub
+        additional_links:
+          - title: ns3-wifi-edcatest
+            icon: fab fa-github
+            url: https://github.com/fanyimeng0/ns3-wifi-edcatest
         quote: >
           Improving overall QoS performance by changing EDCA parameters.
         description: | # this will include new lines to allow paragraphs
@@ -73,9 +79,9 @@ content:
 
           Utilized NS-3 to analyze the Enhanced Distributed Channel Access (EDCA) mechanism in 802.11ac, focusing on throughput and latency.
 
-          Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks. More detail in (https://github.com/fanyimeng0/ns3-wifi-edcatest)
+          Refined EDCA parameters to achieve Proportional Fairness in Channel Allocation for WiFi networks. 
 
-          Verify our results in Linux 5.15 by Hacking Wi-Fi Driver.
+          Verified our results in Linux 5.15 by Hacking Wi-Fi Driver. More detail in (https://github.com/iamhyc/wlsops-hack)
 
           ![Wi-Fi Qos GIF](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/wifiqos.gif)
 
