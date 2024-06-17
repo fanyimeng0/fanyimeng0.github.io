@@ -86,8 +86,12 @@ content:
           ![Wi-Fi Qos GIF](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/wifiqos.gif)
 
       - layout: left
-        title: Wi-Fi Sensing
+        title: Wi-Fi Sensing System 
         caption: Mar 2023 - Present
+        additional_links:
+          - title: Wi-Fi Sensing System
+            icon: fab fa-github
+            url: https://github.com/fanyimeng0/Witraj_real-time-python-
         quote: >
           Utilizing Wi-Fi signals for human health monitoring.
         description: | # this will include new lines to allow paragraphs
@@ -108,9 +112,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Using Nvidia Sionna to simulate sensing data in ISAC Networks.
 
-          Using Machine Learning to analyze the sensing performance (e.g., localization coverage).
+          (Ongoing) Using Machine Learning to analyze the sensing performance (e.g. localization coverage).
 
-          Using the model to optimize the sensing performance by changing BS parameters.
+          (Ongoing) Using the model to optimize the sensing performance by changing BS parameters.
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
