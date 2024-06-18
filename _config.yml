@@ -118,7 +118,8 @@ content:
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      [1] Zhao, Zijian, Tingwei Chen, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **[Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing](https://arxiv.org/abs/2403.12400)**. in IEEE INFOCOM DeepWireless Worshop 2024.
+      [1] Zhao, Zijian, Tingwei Chen, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing**. in IEEE INFOCOM DeepWireless Worshop 2024.
+      [Paper](https://arxiv.org/abs/2403.12400) [Github](https://github.com/RS2002/CSI-BERT)
 
       [2] Yihang Jiang, **Fanyi Meng**, Xinhao Li, Xiaoyang Li, Guangxu Zhu, Kaifeng Han, Qingjiang Shi **Coverage Analysis for Air-Ground Integrated-Sensing-and-Communication Networks** in International Conference on Ubiquitous Communication 2024. (Accpted)
       
