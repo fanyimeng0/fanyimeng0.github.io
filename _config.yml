@@ -105,16 +105,17 @@ content:
 
 
       - layout: left
-        title: ISAC Performance Modeling
+        title: 6G Network Simulation
         caption: Mar 2023 - Present
         quote: >
-          Data-driven Approach for Integrated Sensing and Communication Performance Modeling
+          Building a 6G network simulation platform using Nvidia Sionna.
         description: | # this will include new lines to allow paragraphs
-          Using Nvidia Sionna to simulate sensing data in ISAC Networks.
+          (Ongoing) Using Multi-beam RSRP to calibrate the ray-tracing in Sionna.
 
-          (Ongoing) Using Machine Learning to analyze the sensing performance (e.g. localization coverage).
+          (Ongoing) Using Nvidia Sionna to simulate RIS and ISAC in 6G networks.
 
-          (Ongoing) Using the model to optimize the sensing performance by changing BS parameters.
+          (Willdo) Optimize 6G networks using a data-driven approach.
+          
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
