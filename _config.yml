@@ -23,7 +23,7 @@ github_username: fanyimeng0
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: carlo.mfy
-linkedin_username: jameswgrant
+linkedin_username: fanyi-meng-24013531b
 # xing_username: jekyll
 # pinterest_username: jekyll
 #000youtube_username: globalmtb
@@ -38,7 +38,7 @@ additional_links:
   #  url: https://www.itsgoingto.be
   - title: another link
     #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-    icon: fab google-scholar
+    icon: fas fa-graduation-cap
     url: https://scholar.google.com/citations?user=cCaBzvQAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
