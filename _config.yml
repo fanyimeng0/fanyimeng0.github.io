@@ -22,8 +22,8 @@ github_username: fanyimeng0
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: carlo.mfy
-#linkedin_username: jameswgrant
+#instagram_username: carlo.mfy
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
 #000youtube_username: globalmtb
@@ -36,9 +36,10 @@ additional_links:
   #- title: itsgoingto.be
   #  icon: fas fa-globe
   #  url: https://www.itsgoingto.be
-  #- title: another link
-  #  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  #  url: Link url (eg. https://google.com)
+  - title: another link
+    #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+    icon: fab fa-google-scholar
+    url: https://scholar.google.com/citations?user=cCaBzvQAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -55,9 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   I received B.Eng from Southern University of Technology (Sustech) in Communication Engineering in 2023, supervised by [Prof Rui Wang](http://lasso.eee.sustech.edu.cn/).
   
-  My research interests include Integrated Sensing and Communication(ISAC), wireless simulation and digital twin. I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
+  My research interests include Integrated Sensing and Communication(ISAC), Digital Twin and Machine Learning. I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
 
-  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)        [My Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
+  [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)       
+#[My Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
 
 content:
   - title: Research Experience # Title for the section
@@ -110,11 +112,11 @@ content:
         quote: >
           Building a 6G network simulation platform using Nvidia Sionna.
         description: | # this will include new lines to allow paragraphs
-          (Ongoing) Using Multi-beam RSRP to calibrate the ray-tracing in Sionna.
+          Using Multi-beam RSRP to calibrate Sionna Ray-tracing
 
-          (Ongoing) Using Nvidia Sionna to simulate RIS and ISAC in 6G networks.
+          Using Sionna to simulate RIS and ISAC in 6G networks.
 
-          (Ongoing) Optimizing 6G networks using a data-driven approach.
+          Optimizing 6G network performance using a data-driven approach.
           
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
