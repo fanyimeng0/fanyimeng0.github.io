@@ -38,7 +38,7 @@ additional_links:
   #  url: https://www.itsgoingto.be
   - title: another link
     #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-    icon: fab fa-google-scholar
+    icon: fab google-scholar
     url: https://scholar.google.com/citations?user=cCaBzvQAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
