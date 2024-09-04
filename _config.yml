@@ -97,11 +97,16 @@ content:
         quote: >
           Utilizing Wi-Fi signals for human health monitoring.
         description: | # this will include new lines to allow paragraphs
-          Extracted Channel State Information (CSI) from Wi-Fi signals using Intel 5300 and RT-AC86U.
 
-          Built a platform to simultaneously collect CSI data on three devices for network training.
+          Extracted Channel State Information (CSI) from Wi-Fi signals on Intel 5300 NIC, ESP32, and Router RT-AC86U.
+         
+          Built a Wi-Fi Sensing System for data collection, model training, and function visualization.
+          
+          Used BERT-based neural network to address packet loss challenges in Wi-Fi Sensing tasks.
+          
+          Employed three Intel 5300 NICs for sub-2-second latency in real-time human tracking and localization.
 
-          Used 3 Intel 5300 to track and localize people in real-time. Patent application acceptance (202311295755.4).
+
 
           ![Wi-Fi Sensing GIF](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/wifisensing.gif)
 
