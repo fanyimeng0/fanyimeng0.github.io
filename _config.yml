@@ -115,7 +115,7 @@ content:
         title: 6G Network Performance Simulation and Optimization
         caption: June 2024 - Present
         quote: >
-          Building a 6G network performance simulation platform building opon Nvidia Sionna.
+          Building a 6G network performance simulation platform building upon Nvidia Sionna.
         description: | # this will include new lines to allow paragraphs
           Calibrating Sionna Ray-tracing(RT) models with real-world beam-wise RSRP.
 
