@@ -115,14 +115,15 @@ content:
         title: 6G Network Simulation
         caption: Mar 2023 - Present
         quote: >
-          Building a 6G network simulation platform using Nvidia Sionna.
+          Building a 6G network performance simulation platform building opon Nvidia Sionna.
         description: | # this will include new lines to allow paragraphs
-          Using Multi-beam RSRP to calibrate Sionna Ray-tracing
+          Calibrating Sionna Ray-tracing(RT) models with real-world beam-wise RSRP.
 
-          Using Sionna to simulate RIS and ISAC in 6G networks.
-
-          Optimizing 6G network performance using a data-driven approach.
+          Simulating system-level network performance metrics (e.g., Spatial Efficiency, Localization Error) incorporating advanced 6G technologies(RIS,ISAC)
           
+          Optimizing network performance using gradient-based methods, leveraging the chain rule for differentiation within Sionna's Ray-tracing and Neural Network components.
+ 
+          ![Simulation Platform Photo](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/p1-v9.png)
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
