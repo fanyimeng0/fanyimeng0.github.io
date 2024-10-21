@@ -119,7 +119,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Calibrating Sionna Ray-tracing(RT) models with real-world beam-wise RSRP.
 
-          Simulating system-level network performance metrics (e.g., Spatial Efficiency, Localization Error) incorporating advanced 6G technologies(RIS,ISAC)
+          Simulating system-level network performance metrics (e.g., Spatial Efficiency, Localization Error) incorporating advanced 6G technologies (RIS,ISAC).
           
           Optimizing network performance using gradient-based methods, leveraging the chain rule for differentiation within Sionna's Ray-tracing and Neural Network components.
  
