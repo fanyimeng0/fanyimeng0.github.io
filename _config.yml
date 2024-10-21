@@ -113,7 +113,7 @@ content:
 
       - layout: left
         title: 6G Network Simulation
-        caption: Mar 2023 - Present
+        caption: June 2024 - Present
         quote: >
           Building a 6G network performance simulation platform building opon Nvidia Sionna.
         description: | # this will include new lines to allow paragraphs
