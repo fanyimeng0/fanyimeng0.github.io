@@ -123,7 +123,7 @@ content:
           
           Optimizing network performance using gradient-based methods, leveraging the chain rule for differentiation within Sionna's Ray-tracing and Neural Network components.
  
-          <img src="https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/p1-v9.png" alt="Simulation Platform Photo" width="1495" height="1170"/>
+          ![Simulation Platform Photo](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/p1-v10.png)
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
