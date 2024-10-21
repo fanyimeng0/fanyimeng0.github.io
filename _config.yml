@@ -112,7 +112,7 @@ content:
 
 
       - layout: left
-        title: 6G Network Simulation
+        title: 6G Network Performance Simulation and Optimization
         caption: June 2024 - Present
         quote: >
           Building a 6G network performance simulation platform building opon Nvidia Sionna.
