@@ -36,7 +36,7 @@ additional_links:
   #- title: itsgoingto.be
   #  icon: fas fa-globe
   #  url: https://www.itsgoingto.be
-  - title: another link
+  - title: Google Scholar link
     #icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
     icon: fas fa-graduation-cap
     url: https://scholar.google.com/citations?user=cCaBzvQAAAAJ&hl=en
@@ -128,9 +128,10 @@ content:
     layout: text # Type of content section (list/text)
     content: | 
       [1] Zhao, Zijian, Tingwei Chen, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing**. in IEEE INFOCOM DeepWireless Worshop 2024.
-      [Paper](https://arxiv.org/abs/2403.12400) [Github](https://github.com/RS2002/CSI-BERT)
+      <a href="https://arxiv.org/abs/2403.12400" style="text-decoration: underline;">Paper</a> <a href="https://github.com/RS2002/CSI-BERT" style="text-decoration: underline;">Github</a>
 
-      [2] Yihang Jiang, **Fanyi Meng**, Xinhao Li, Xiaoyang Li, Guangxu Zhu, Kaifeng Han, Qingjiang Shi **Coverage Analysis for Air-Ground Integrated-Sensing-and-Communication Networks** in International Conference on Ubiquitous Communication 2024. (Accpted)
+
+      [2] Yihang Jiang, **Fanyi Meng**, Xinhao Li, Xiaoyang Li, Guangxu Zhu, Kaifeng Han, Qingjiang Shi **Coverage Analysis for Air-Ground Integrated-Sensing-and-Communication Networks** in International Conference on Ubiquitous Communication 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10695929" style="text-decoration: underline;">Paper</a>
 
       [3] Xinhao Li, Yihang Jiang, **Fanyi Meng**, Xiaoyang Li, Kaifeng Han, Guangxu Zhu **Integrated Sensing and Communications Signal Prediction with Multi-Beam Statistical Channel** (Submitted to IEEE for possible publication)
       
