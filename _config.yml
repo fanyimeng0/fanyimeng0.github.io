@@ -149,6 +149,9 @@ content:
       - layout: left
         title: Reviewer
         description: | # this will include new lines to allow paragraphs
+
+          IEEE Communication Magazine, 2024
+
           IEEE International Conference on Computer and Communications (ICCC), 2023
 
           IEEE Global Communications Conference Workshop (Globecom), 2023
