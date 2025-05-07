@@ -124,6 +124,7 @@ content:
           Optimizing network performance using gradient-based methods, leveraging the chain rule for differentiation within Sionna's Ray-tracing and Neural Network components.
  
           ![Simulation Platform Photo](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/p1-v10.png)
+
       - layout: left
         title: Taichi RT
         caption: Feb 2025 - Present
@@ -138,7 +139,7 @@ content:
 
         (Ongoing)Implementing radio map simulation.
 
-        ![Taichi Simulation](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Taichi.png)
+        
           
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
