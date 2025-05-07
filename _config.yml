@@ -131,15 +131,15 @@ content:
         quote: > 
           Impplementing a differentiable and parrllel radio ray-tracing simulator on GPU based on Taichi lang.
         description: | # this will include new lines to allow paragraphs
-        Support specular reflection and BVH acceleration based on Taichi .
+          Support specular reflection and BVH acceleration based on Taichi .
 
-        Support differentiable ray-tracing with respect to electromagnetic parameters(e.g., conductivity).
+          Support differentiable ray-tracing with respect to electromagnetic parameters(e.g., conductivity).
 
-        (Ongoing)Implementing diffuse reflection and refraction.
+          (Ongoing)Implementing diffuse reflection and refraction.
 
-        (Ongoing)Implementing radio map simulation.
+          (Ongoing)Implementing radio map simulation.
 
-        
+          ![Taichi Simulation](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Taichi.png)
           
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
