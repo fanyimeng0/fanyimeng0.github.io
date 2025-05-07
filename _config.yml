@@ -51,12 +51,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/pre2.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Fanyi Meng and I'm pursuing my M.Phil of Computer and Information Engineering in The Chinese University of Hong Kong, Shenzhen (CUHKSZ). 
+  Hi, my name's Fanyi Meng and I have obtained my M.Phil degree in Computer and Information Engineering from The Chinese University of Hong Kong, Shenzhen (CUHKSZ).
   I am co-supervised by [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) and [Prof Tsung-Hui Chang](https://sse.cuhk.edu.cn/faculty/tsunghuichang).
 
   I received B.Eng from Southern University of Technology (Sustech) in Communication Engineering in 2023, supervised by [Prof Rui Wang](http://lasso.eee.sustech.edu.cn/).
   
-  My research interests include Integrated Sensing and Communication (ISAC), Digital Twin and Machine Learning. I am looking for a Ph.D. program in ECE or CSE for the year 2025. If there are any available openings, please inform me via email!
+  My research interests include Integrated Sensing and Communication (ISAC), Digital Twin and Differentiable Rendering. I am looking for a Ph.D. program in ECE or CSE for the year 2025/2026. If there are any available openings, please inform me via email!
 
   [My Resume](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/CV_Fanyi%20MENG.pdf)       
 #[My Research Proposal ](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Research Proposal.pdf)
@@ -89,7 +89,7 @@ content:
 
       - layout: left
         title: Wi-Fi Sensing System 
-        caption: Mar 2023 - Present
+        caption: Mar 2023 - April 2024
         additional_links:
           - title: Wi-Fi Sensing System
             icon: fab fa-github
@@ -124,6 +124,21 @@ content:
           Optimizing network performance using gradient-based methods, leveraging the chain rule for differentiation within Sionna's Ray-tracing and Neural Network components.
  
           ![Simulation Platform Photo](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/p1-v10.png)
+      - layout: left
+        title: Taichi RT
+        caption: Feb 2025 - Present
+        quote: >
+          Support specular reflection and BVH acceleration based on Taichi .
+
+          Support differentiable ray-tracing with respect to electromagnetic parameters(e.g., conductivity).
+
+          (Ongoing)Implementing diffuse reflection and refraction.
+
+          (Ongoing)Implementing radio map simulation.
+
+          ![Taichi Simulation](https://raw.githubusercontent.com/fanyimeng0/fanyimeng0.github.io/main/assets/Taichi.png)
+        description: | # this will include new lines to allow paragraphs
+          
   - title: Publication # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
