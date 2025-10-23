@@ -52,7 +52,6 @@ additional_links:
 about_profile_image: images/pre2.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Fanyi Meng, and I am currently a Research Assistant (RA) at Southern University of Science and Technology (SUSTech), supervised by [Prof. Tianyue Zheng](https://tianyuez.github.io/). I obtained my M.Phil degree in Computer and Information Engineering from The Chinese University of Hong Kong, Shenzhen (CUHKSZ).I am co-supervised by [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) and [Prof Tsung-Hui Chang](https://sse.cuhk.edu.cn/faculty/tsunghuichang). 
-  I am co-supervised by [Dr. Guangxu Zhu](https://sites.google.com/view/guangxuzhu) and [Prof Tsung-Hui Chang](https://sse.cuhk.edu.cn/faculty/tsunghuichang).
 
   I received B.Eng from Southern University of Technology  in Communication Engineering in 2023, supervised by [Prof Rui Wang](http://lasso.eee.sustech.edu.cn/).
   
@@ -147,7 +146,8 @@ content:
     content: | 
       [1] **Fanyi Meng**, Xinhao Li, Dongzhu Liu, Guangxu Zhu. **Environment Calibrated and Fully Differentiable Wireless Network Simulator for 6G** Submitted to IEEE for possible publication 
       
-      [2] Zhao, Zijian, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **Mining Limited Data Sufficiently: A BERT-inspired Approach for CSI Time Series Application in Wireless Communication and Sensing.**arXiv preprint arXiv:2412.06861 (2024).<a href="https://arxiv.org/pdf/2412.06861" style="text-decoration: underline;">Paper</a>
+      [2] Zhao, Zijian, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **CSI-BERT2: A BERT-inspired Framework for Efficient CSI Prediction and Classification in Wireless Communication and Sensing.**arXiv preprint arXiv:2412.06861 (2024).<a href="https://arxiv.org/pdf/2412.06861" style="text-decoration: underline;">Paper</a> Submitted to IEEE Mobile Computing(Major Revision).
+
 
       [3] Zhao, Zijian, Tingwei Chen, **Fanyi Meng**, Hang Li, Xiaoyang Li, and Guangxu Zhu. **Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing**. in IEEE INFOCOM DeepWireless Worshop 2024.
       <a href="https://arxiv.org/abs/2403.12400" style="text-decoration: underline;">Paper</a> <a href="https://github.com/RS2002/CSI-BERT" style="text-decoration: underline;">Github</a>
